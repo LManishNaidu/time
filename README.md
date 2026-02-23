@@ -1,1 +1,3 @@
-This project is about allowing people to detect fake news in the internet easily
+This repository is mainly for my learning time in ML 
+To get better grasp on ML
+Building pre requisite knowledge for ML projects
